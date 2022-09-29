@@ -32,12 +32,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/fairuzzgapunyaduit'
 global.sgh = 'https://github.com/FairusAnjay/' //github
-global.sgc = 'https://chat.whatsapp.com/GaPunyaGC:v' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/G8Ofqsp0oIl19GPE5FI8Kk' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'http://tiktok.com/@ruzz.not.alay' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '-' //dana
+global.pdana = '' //dana
 global.povo = '' //ovo
 global.pgopay = '085804325802' //gopay
 global.plinkaja = '' //link aja
