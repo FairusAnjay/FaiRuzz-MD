@@ -8,7 +8,7 @@ let motivasii = pickRandom(global.virtex)
     externalAdReply :{
     mediaUrl: '',
     mediaType: 2,
-    title: 'Free src', 
+    title: 'Free Virtex', 
     body: '😁☝️',  
     sourceUrl: sgc, 
     thumbnail: fs.readFileSync('./thumbnail.jpg')
