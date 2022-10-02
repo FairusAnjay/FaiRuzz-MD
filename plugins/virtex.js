@@ -17,7 +17,7 @@ let motivasii = pickRandom(global.virtex)
 }
 handler.help = ['virtex']
 handler.tags = ['quotes']
-handler.command = /^(virtex)$/i
+handler.command = /^bagi(virtex|virus|v)$/i
 
 export default handler
 
